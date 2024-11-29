@@ -33,3 +33,17 @@ Each problem solution is provided as a **Jupyter Notebook**, allowing for an int
 
 ---
 
+## Folders Structure
+
+### Documents Section 
+
+This folder contains Executive summary pdf document as well as docx version and Presentation pptx file
+
+### Problem 1
+Contains the files and output for problem 1
+
+### Problem 2
+Contains the files and output for problem 2
+
+### Problem 3
+Contains the files and output for problem 3
